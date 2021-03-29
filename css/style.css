@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css2?family=Englebert&display=swap);
+
+body {
+  background: url("../images/bungalows.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+  font-family: 'Englebert', sans-serif;}
+
+  #logo {
+    width: 20%;
+    height: auto;
+    padding-top: 0px;
+    padding-left: 0px;}
+
+  p {
+    letter-spacing: 2px;
+    font-size: 120%;
+    text-transform: uppercase;
+    background-color: #123432;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    padding: 5px 0;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+
+  }
+
+#info {
+  background-color: #91cabc;
+  color: #123432;
+  width: 200px;
+  padding: 0 25px;
+  text-align: center;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  right: 5%;}
+
+/* details in the black bar */
+
+#resortName {
+  text-transform: uppercase;
+  background-color: #123432;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 120%;
+  margin-top: 20px;
+  padding: 5px 0;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;}
+
+#resort1 {
+  margin-top: 1em;
+  border-top: 1px solid #123432;
+  padding-top: 1em;
+  padding-bottom: 1em;}
+
+#resort2 {
+  padding-bottom: 1em;}
+
+#resort3 {
+  border-bottom: 1px solid #123432;
+  padding-bottom: 1em;}
